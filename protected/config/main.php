@@ -61,8 +61,8 @@ return array(
 		
 		'db'=>array(
 			 'connectionString' => 'sqlsrv:server=.;database=sppks2015',
-		      'username' => 'admin_bps_a',
-		      'password' => 'Password_admin_1257',
+		      'username' => 'lawatekoye',
+		      'password' => 'lawatekoye12122',
 		      //'charset' => 'GB2312',
 		      //'tablePrefix' => 'tbl_',
 		),
